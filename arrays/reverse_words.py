@@ -1,4 +1,4 @@
-# INPUT - list of characters  (words separated by space)
+# INPUT - list of characters (words separated by space)
 # OUTPUT - reversed by words list of characters
 
 message = ['l', 'a', 'n', 'd', 'e', 'd', ' ', 'h', 'a', 's', ' ',
