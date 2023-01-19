@@ -2,7 +2,7 @@
 # each of them represents the number of 30-min blocks past 9:00am.
 # OUTPUT - list of condensed ranges
 
-time_ranges: list[tuple] = [(1, 10), (2, 6), (3, 5), (7, 9)]
+time_ranges: list[tuple] = [(2, 6), (3, 5), (7, 9)]
 
 
 def merge_ranges(ranges: list) -> list[tuple]:
